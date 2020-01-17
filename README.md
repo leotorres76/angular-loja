@@ -10,3 +10,4 @@ Pequeno exemplo de app feito no Angular e suas principais características de ut
 Interpolation {{}}<br>
 Property Binding []<br>
 Event Binding ()<br>
+Routing
