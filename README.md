@@ -1,7 +1,7 @@
 ## Angular
 Pequeno exemplo de app feito no Angular e suas principais características de utilização
 
-![](Screenshot.png)
+![](screenshot_animated.GIF)
 
 ### Template Syntax (e.g)
 
