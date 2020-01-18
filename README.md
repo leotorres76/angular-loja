@@ -16,3 +16,5 @@ Event Binding ()<br>
 ### Input & Output
 
 ### Routing
+
+### Managing Data
